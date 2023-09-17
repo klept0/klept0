@@ -9,7 +9,7 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=fplastic&logo=javascript&logoColor=%23F7DF1E) ![Alfred](https://img.shields.io/badge/alfred-%235C1F87.svg?style=plastic&logo=alfred)
 
 ## 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=klept0&theme=dracula&hide_border=false)<br/>
+![klept0's GitHub stats](https://github-readme-stats.vercel.app/api?username=klept0&show_icons=true&theme=transparent)
 
 ---
 Fuel my caffeine addiction and buy me a coffee! <br/>
