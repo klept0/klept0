@@ -20,7 +20,7 @@
 
 ## 🚀 About Me  
 💻 Builder of tools, scripts, and bots with a focus on **automation, stealth, and efficiency**.  
-⚡ Optimized for **low detection, high autonomy, and monetization workflows**.  
+⚡ Optimized for **low detection and high autonomy**.  
 🎯 I care about **clean design** and **practical results**.  
 
 ---
